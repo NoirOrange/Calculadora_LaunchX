@@ -1,0 +1,49 @@
+body{
+	background-color:#ffffff
+}
+
+.contenedor{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	height:550px;
+	width:400px;
+	border: 2px solid black;
+	border-radius: 30px;
+	background-color:#87887F;
+	
+}
+
+.pantalla{
+	margin-top:20px;
+	margin-left:5px;
+	height:60px;
+	width:390px;
+}
+
+#datos{
+	height:50px;
+	width:380px;
+	text-align:right;
+	font-family:Consolas;
+	font-size:40px;
+	color:#ffffff;
+	border-radius: 30px;
+	background-color:#040505
+}
+
+.numeros{
+	margin-left:10px;
+}
+
+.botones{
+	height:90px;
+	width:90px;
+	background-color:#ffffff;
+	font-family:Consolas;
+	font-size:40px;
+	
+}
